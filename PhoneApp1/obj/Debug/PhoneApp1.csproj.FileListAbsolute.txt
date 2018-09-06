@@ -1,0 +1,13 @@
+d:\Users\ramazan\Desktop\asdfg\PhoneApp1\PhoneApp1\Bin\Debug\ApplicationIcon.png
+d:\Users\ramazan\Desktop\asdfg\PhoneApp1\PhoneApp1\Bin\Debug\Background.png
+d:\Users\ramazan\Desktop\asdfg\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1.dll
+d:\Users\ramazan\Desktop\asdfg\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1.pdb
+d:\Users\ramazan\Desktop\asdfg\PhoneApp1\PhoneApp1\Bin\Debug\AppManifest.xaml
+d:\Users\ramazan\Desktop\asdfg\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1.xap
+d:\Users\ramazan\Desktop\asdfg\PhoneApp1\PhoneApp1\obj\Debug\ResolveAssemblyReference.cache
+d:\Users\ramazan\Desktop\asdfg\PhoneApp1\PhoneApp1\obj\Debug\App.g.i.cs
+d:\Users\ramazan\Desktop\asdfg\PhoneApp1\PhoneApp1\obj\Debug\MainPage.g.i.cs
+d:\Users\ramazan\Desktop\asdfg\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.g.resources
+d:\Users\ramazan\Desktop\asdfg\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.dll
+d:\Users\ramazan\Desktop\asdfg\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.pdb
+d:\Users\ramazan\Desktop\asdfg\PhoneApp1\PhoneApp1\obj\Debug\XapCacheFile.xml
